@@ -30,7 +30,19 @@ in a position.
 ### Prerequisites
 
 This is an example of how to list things you need to use the software and how to install them.
-* npm
+* matplotlib
+  ```sh
+  npm install npm@latest -g
+  ```
+ * pandas
+  ```sh
+  npm install npm@latest -g
+  ```
+ * numpy
+  ```sh
+  npm install npm@latest -g
+  ```
+ * datetime
   ```sh
   npm install npm@latest -g
   ```
